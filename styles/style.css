@@ -1,0 +1,69 @@
+/*CSS Reset*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*Importando Fontes do Bootstrap*/
+@font-face {
+    font-family: 'Glyphicons Halflings';
+    src: url('/fonts/glyphicons-halflings-regular.eot');
+    src: url('/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+
+/*logo*/
+.logo{
+	width: 130px;
+	height: 172px;
+	margin: 0 0 5px 0;
+}
+
+.menu_top{
+	background-color: #AE5C49;
+	border-color: #AE5C49;
+}
+
+.menu_item > li > a {
+	color: #FFF !important;
+}
+
+.menu_item > li > a:hover {
+	color: #292929 !important;
+}
+
+.btn-pesquisar{
+	background-color: #FF9247;
+	color: #FFF;
+}
+
+.style-image{
+	border: solid 1px #CCC;
+}
+
+/*Publicidade*/
+.publicidade-right-1{
+	background-color: #585353;
+	height: 264px;
+	width: 305px;
+	margin: 0 15px 20px 0;
+}
+
+.publicidade-top{
+	background-color: #585353;
+	height: 100px;
+	margin: 50px 0 0 0;
+}
+
+.paginarion-category > a{
+	color:#AE5C49;
+}
+
+.slow-resolution-menu{
+	border-color: #AE5C49 !important;
+}
+
+
+.tituloCategoria{
+	text-align: center;
+	font-size: 20px;
+}

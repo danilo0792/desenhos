@@ -40,7 +40,7 @@
 		<div class="collapse navbar-collapse navHeaderCollapse">
 			<ul class="nav navbar-nav navbar-left menu_item">
 				<li>
-					<a href="index.php?pagina=nav/home">Home</a>
+					<a href="index.php">Home</a>
 				</li>
 				<li>
 					<a href="index.php?pagina=nav/page&amp;categoria=datas-comemorativas">Datas Comemorativas</a>

@@ -1,6 +1,6 @@
 <?php  
 
-	$limite = 5;
+	$limite = 16;
 
 	$sql_count = mysql_query("Select count('id') from dcp_categorias");
 	
